@@ -5,7 +5,7 @@ class Solution {
         String[] array=s.split(" ");
         int sp=0;
         for(int i=array.length-1;i>=0;i--){
-            if(array[i]!="" ){
+            if(!array[i].isEmpty()){
                 ans+=array[i];
                 ans+=" ";
                 sp=0;
