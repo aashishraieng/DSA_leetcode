@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/aashishraieng/DSA_leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/aashishraieng/DSA_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aashishraieng/DSA_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/aashishraieng/DSA_leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aashishraieng/DSA_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -46,10 +48,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/aashishraieng/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aashishraieng/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aashishraieng/DSA_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
