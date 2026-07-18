@@ -8,7 +8,7 @@ class MinStack {
     public MinStack() {
         s=new Stack<>();
         min=new Stack<>(); 
-        m=Integer.MAX_VALUE;   
+          
                   
         
     }
