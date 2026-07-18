@@ -1,8 +1,7 @@
 class MinStack {
     Stack<Integer> s;
     Stack<Integer> min;
-    int m;
-    
+  
     
 
     public MinStack() {
