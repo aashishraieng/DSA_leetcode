@@ -15,12 +15,11 @@ class MinStack {
     
     public void push(int value) {
         s.push(value);
-        if(value<m){
-            m=value;
-            min.push(value);
-        }else{
-            min.push(m);
-        }
+        if (min.isEmpty()) {
+    min.push(value);
+} else {
+    min.push(Math.min(value, min.peek()));
+}
 
         
     }
@@ -28,11 +27,7 @@ class MinStack {
     public void pop() {
         s.pop();
         min.pop();
-        if (min.isEmpty()) {
-        m = Integer.MAX_VALUE;
-    } else {
-        m = min.peek();
-    }
+        
         
     }
     
