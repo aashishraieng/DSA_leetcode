@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aashishraieng/DSA_leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aashishraieng/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aashishraieng/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/aashishraieng/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aashishraieng/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/aashishraieng/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aashishraieng/DSA_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Stack
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/aashishraieng/DSA_leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/aashishraieng/DSA_leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aashishraieng/DSA_leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/aashishraieng/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aashishraieng/DSA_leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aashishraieng/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
