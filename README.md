@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aashishraieng/DSA_leetcode/tree/master/0035-search-insert-position) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aashishraieng/DSA_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aashishraieng/DSA_leetcode/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/aashishraieng/DSA_leetcode/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aashishraieng/DSA_leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Stack
 |  |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aashishraieng/DSA_leetcode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/aashishraieng/DSA_leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
